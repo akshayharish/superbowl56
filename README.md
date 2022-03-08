@@ -1,4 +1,4 @@
-# Predicting the outcome of the Superbowl LVI
+# Predicting the outcome of Superbowl LVI
 
 Data was gathered from freely available sources for the 2021-22 season.
 
